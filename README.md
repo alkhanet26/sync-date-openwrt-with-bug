@@ -40,6 +40,6 @@
 - Setelah koneksi terhubung, script akan melakukan sinkronisasi waktu terlebih dahulu, lalu merestart aplikasi VPN yang digunakan.
 
 ### Developer - Pengembang
-- Base script from AlkhaNet by Teguh Surya Mungaran
+- Base script from AlkhaNet by [Teguh Surya Mungaran](https://github.com/alkhanet26)
 - Added GMT+7 by Vito H.S
 - Add more advancement codes by [Helmi Amirudin](https://helmiau.com)
